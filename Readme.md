@@ -1,18 +1,18 @@
 # Hi, I'm Arihant 👋
 
-I'm a passionate **Full-Stack Web Developer** 💻 who loves coding and building impactful software that transforms lives.
+I'm a passionate **Software Engineer** 💻 who loves coding and building impactful products that transform lives.
 
-🔭 I enjoy learning and discussing about **space exploration**.
+🔭 I enjoy learning and discussing about **space exploration** and space technology.
 
-🚀 I'm always looking to discuss on projects that positively impact human lives.
+🚀 I'm always looking to discuss projects that positively impact human lives.
 
-💬 Ask me about **Internet of Things (IoT)** 
+💬 Ask me about **Internet of Things (IoT)**
 
 🔗 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/arihantdaga)! 😊
 
 <p>
-    <a href="https://medium.com/@arihantdaga"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-    <a href="https://open.spotify.com/user/arihantdaga"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" /></a>
+    <a href="https://akindsoul.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+    <a href="https://open.spotify.com/user/31dvzfoufy66h3ewnpvqm7ytkfiu?si=e4a145e26281448b"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" /></a>
 </p>
 
 ## 🛠️ Tools of the Trade
@@ -21,37 +21,37 @@ I'm a passionate **Full-Stack Web Developer** 💻 who loves coding and building
   <tr>
     <td align="center" width="96">
       <a href="#javascript">
-        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+        <img src="https://skillicons.dev/icons?i=js" width="36" height="36" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#typescript">
-        <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+        <img src="https://skillicons.dev/icons?i=ts" width="36" height="36" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td>
     <td align="center" width="96">
       <a href="#vue">
-        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
+        <img src="https://skillicons.dev/icons?i=vue" width="36" height="36" alt="Vue" />
       </a>
       <br>Vue
     </td>
     <td align="center" width="96">
       <a href="#nodejs">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+        <img src="https://skillicons.dev/icons?i=nodejs" width="36" height="36" alt="Node.js" />
       </a>
       <br>Node.js
     </td>
     <td align="center" width="96">
       <a href="#python">
-        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+        <img src="https://skillicons.dev/icons?i=python" width="36" height="36" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
       <a href="#cpp">
-        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+        <img src="https://skillicons.dev/icons?i=cpp" width="36" height="36" alt="C++" />
       </a>
       <br>CPP
     </td>
@@ -60,35 +60,34 @@ I'm a passionate **Full-Stack Web Developer** 💻 who loves coding and building
   <tr>
   <td align="center" width="96">
       <a href="#django">
-        <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
+        <img src="https://skillicons.dev/icons?i=django" width="36" height="36" alt="Django" />
       </a>
       <br>Django
     </td>
     <td align="center" width="96">
       <a href="#postgres">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+        <img src="https://skillicons.dev/icons?i=postgres" width="36" height="36" alt="PostgreSQL" />
       </a>
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
       <a href="#mongodb">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+        <img src="https://skillicons.dev/icons?i=mongodb" width="36" height="36" alt="MongoDB" />
       </a>
       <br>MongoDB
     </td>
     <td align="center" width="96">
       <a href="#aws">
-        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+        <img src="https://skillicons.dev/icons?i=aws" width="36" height="36" alt="AWS" />
       </a>
       <br>AWS
     </td>
     <td align="center" width="96">
       <a href="#docker">
-        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+        <img src="https://skillicons.dev/icons?i=docker" width="36" height="36" alt="Docker" />
       </a>
       <br>Docker
     </td>
-    <td align="center" width="96"></td>
 
   </tr>
 </table>
