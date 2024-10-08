@@ -1,6 +1,6 @@
 # Hi, I'm Arihant 👋
 
-I'm a passionate **Software Engineer** 💻 who loves coding and building impactful products that transform lives.
+I'm a passionate Software Engineer 💻 who loves coding and building impactful products that transform lives.
 
 🔭 I enjoy learning and discussing about **space exploration** and space technology.
 
